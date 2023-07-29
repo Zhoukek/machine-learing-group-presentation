@@ -1,0 +1,12 @@
+1.课件用于教学目的，请不要用于商业用途
+
+2.如要引用，请说明“黄海广，温州大学机器学习课程课件”。
+
+3.课程视频在中国大学慕课，网址：https://www.icourse163.org/course/WZU-1464096179
+
+4.课程资源在github：https://github.com/fengdu78/WZU-machine-learning-course
+
+5.如有纠错或者修改，请联系黄海广老师。联系方式：haiguang2000@wzu.edu.cn
+
+6.课件配套教材预计在2022年底在清华大学出版社出版。
+

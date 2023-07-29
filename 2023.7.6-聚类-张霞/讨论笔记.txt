@@ -1,0 +1,18 @@
+1、Neural Gas 算法---k-means的简单推广
+2、https://blog.csdn.net/qq_16234613/article/details/79991191
+3、https://blog.csdn.net/jucilan3330/article/details/83041706
+4、VQ 在一些著名的大模型（如CLIP）
+5、李航的书《统计学方法》第二版里面，EM算法的三硬币问题举例比较易懂
+6、EM算法=？阴阳学说
+7、《matrix cookbook》
+https://spaces.ac.cn/archives/4277
+
+思考
+1. EM算法和k-均值聚类有什么联系？
+2. EM算法可以应用在哪些场合？
+3. EM算法和神经皮层的竞争、协作学习机制之间有什么联系？
+4..EM算法和贝叶斯推断有什么关系？
+5.机器学习中还有哪些算法和EM算法有紧密关系？
+
+
+KMeans 可以看作是每个分量具有相等协方差的高斯混合模型的特例。没有考虑协方差，或协方差都是单位阵

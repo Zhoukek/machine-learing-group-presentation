@@ -1,0 +1,45 @@
+Faces recognition example using eigenfaces and SVMs：https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
+
+
+PCA和SVD视频讲解：https://www.bilibili.com/video/BV16A411T7zX/?spm_id_from=333.337.search-card.all.click&vd_source=251f244e0a09d985c629e4f0f70bb66f
+
+
+PCA和聚类：https://www.kaggle.com/code/kashnitsky/topic-7-unsupervised-learning-pca-and-clustering
+
+
+
+8月3日研讨会：机器学习视角下的PCA
+1.	线性自编码器的概念和结构，以及它与PCA的关系和区别 。
+2.	PCA的两种优化代价函数：重构误差最小和方差最大，以及它们之间的等价性和联系 。
+3.	PCA的典型应用Eigface人脸识别 。
+4.	问题和讨论
+
+
+8月10日研讨会：PCA 的两个重要推广
+1.	因素分析（FA）的基本原理和数学推导，包括因素模型、因素旋转、因素得分等 。
+2.	FA与PCA的异同点，以及它们各自适用的场景和优缺点 。
+3.	独立分量分析（ICA）的基本原理和数学推导，包括盲源分离、最大非高斯性、快速ICA算法等 。
+4.	ICA与PCA的异同点，以及它们各自适用的场景和优缺点 。
+5.	FA和ICA在信号处理、图像处理、文本分析等领域的实际应用和案例 。
+6.	问题和讨论
+
+
+
+
+思考与讨论：
+1.	PCA如何选择主成分的个数？有什么标准或方法？
+2.	从编码的角度认识PCA， 维数压缩后的数据怎样被重构？
+3.	信号和图像处理中与PCA关系最近的编码方法有哪些？
+4.	在有监督学习场景下怎样利用PCA？
+5.	PCA如何处理数据中的噪声和异常值？它们会对PCA的结果产生什么影响？
+6.	为什么在具体实现PCA时经常调用SVD而不是直接进行特征值-特征矢量分解？
+7.	PCA和LDA有什么区别和联系？
+8.	思考和讨论PCA和线性子空间的关系
+9.	PCA是否保留了数据中的线性关系和非线性关系？为什么？
+10.	PCA有哪些变体或扩展方法？它们是针对PCA的什么问题加以改进或优化的？
+11.	PCA的优缺点是什么？讨论PCA在数据处理中的优势和限制。
+12.	PCA如何处理数据的方差解释？解释PCA中方差解释的概念和其在特征选择中的重要性。
+13.	什么是PCA的核方法（Kernel PCA）？它如何扩展标准PCA以处理非线性数据？
+14.	PCA和其他降维技术之间的比较？将PCA与其他常用的降维技术（例如t-SNE和LLE）进行比较，讨论它们的异同和适用场景。
+15.	你认为PCA和因子分析在降维效果和计算复杂度方面有什么优势和劣势？它们在什么样的数据和场景下更适用？
+16.	你认为PCA和ICA在降维效果和计算复杂度方面有什么优势和劣势？它们在什么样的数据和场景下更适用？
